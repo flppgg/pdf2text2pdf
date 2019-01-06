@@ -12,6 +12,9 @@ These scripts were developed to:
 &nbsp;
 
 This allows you to substantially reduce the size of the PDF file, and potentially to implement full text search functionalities.
+
+&nbsp;
+
   
 The first folder, **pdf2text**, includes a number of Perl and shell scripts to extract the text layer from a PDF or DjVu file, and return a text file with the position and size of every word in the PDF.
   
