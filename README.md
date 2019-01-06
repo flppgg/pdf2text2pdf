@@ -7,8 +7,11 @@ These scripts were developed to:
 1. extract Unicode text from a PDF file (or DjVu file), with the position and size of every word in every page, and 
 2. re-build a lighter version of the PDF file that ONLY includes the text layer
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 This allows you to substantially reduce the size of the PDF file, and potentially to implement full text search functionalities.
   
 The first folder, **pdf2text**, includes a number of Perl and shell scripts to extract the text layer from a PDF or DjVu file, and return a text file with the position and size of every word in the PDF.
