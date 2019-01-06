@@ -3,8 +3,6 @@
 
 &nbsp;
 
-&nbsp;
-
 
 These scripts were developed to:
 1. extract Unicode text from a PDF file (or DjVu file), with the position and size of every word in every page, and 
