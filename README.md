@@ -1,6 +1,9 @@
 # pdf2text2pdf
 ### Scripts to extract text layer from PDFs and rebuild lighter PDFs 
 
+&nbsp;
+
+&nbsp;
 
 
 These scripts were developed to:
