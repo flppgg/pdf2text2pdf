@@ -23,5 +23,6 @@ The second folder, **text2pdf**, contains a Python script to build a PDF file fr
 
 &nbsp;
 
-The Python script is still a beta version that needs testing fixing. In theory it should support every language included in UTF-8, although this is still far away.
- 
+The Python script is still a beta version that needs testing fixing. In theory it should support every language included in UTF-8, although we are still far from that.
+
+If you would like to contribute please send your comments, Thanks!
